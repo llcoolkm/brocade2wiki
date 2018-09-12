@@ -1,0 +1,11 @@
+#
+# Switches get stitches
+#
+
+switch1:
+  user: admin
+  pass: mypassword
+switch2:
+  user: admin
+  pass: mypassword
+
